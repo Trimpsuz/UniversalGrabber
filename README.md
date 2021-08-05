@@ -1,2 +1,3 @@
 # UniversalGrabber
-A ProofOfConcept application for grabbing a lot of information stored on your PC via an exe file
+
+For educational purposes only do not use with malicious intent.
